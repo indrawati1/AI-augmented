@@ -15,6 +15,10 @@ Tas_GlobalVSAll_rev2.ipynb contains the code for producing Figure 2 and its rela
 
 Tas_GlobalVSAll_seasonal_rev2 contains the code for producing Figure 2 and its related Figure for seasonal data analysis
 
+Variability_interdependence_rev3.ipynb contains the code for producing Figure 3 and its related Figure for annual data analysis
+
+Variability_interdependence_seasonal3.ipynb contains the code for producing Figure 3 and its related Figure for seasonal data analysis
+
 RFandSHAP_rev3a_boostrap.ipynb contains the code for quantifying Granger Causality and RF-SHAP
 
 Interdependence_rev3a.ipynb contains the code for calculating interdependence
